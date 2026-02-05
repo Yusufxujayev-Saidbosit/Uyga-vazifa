@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  background-color: rgb(255, 240, 31);
+  height: 60px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.sidebar {
+  background-color: rgb(77, 80, 255);
+  height: 150px;
+  width: 200px;
+  padding: 30px;
+  margin: 20px;
+}
+
+.hh {
+  font-size: 18px;
+  text-align: left;
+  display: flex;
+  justify-content: space-evenly;
+  gap: 20px;
+}
+
+.welcome {
+  background-color: rgb(25, 221, 25);
+  height: 150px;
+  width: 1000px;
+  padding: 30px;
+  margin: 20px;
+}
+
+.footer {
+  background-color: orange;
+  height: 60px;
+  padding: 20px;
+  margin: 20px;
+}
